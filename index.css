@@ -1,0 +1,599 @@
+
+.website{
+    height:2000px;
+    width:1360px;
+    font-family: 'AudiExtended',sans-serif !important;
+    background: black;
+    position:sticky;
+    top:0;
+    
+} 
+.one{
+    height:70px;
+    width:1360px;
+    background-color:white;
+    position: relative;
+    
+}
+.audiim{
+    position:absolute;
+    left:480px;
+    top:18px;
+    width:90px;
+    height:50px;
+}
+.ai{
+    color:red;
+    font-size: 30px;
+    font-weight: bold;
+    position:absolute;
+    top:5px;
+    left:590px;
+    padding-bottom:30px;
+}
+.mc{
+    color:black;
+    position:absolute;
+    top:5px;
+    left:680px;
+    padding-bottom:30px;
+}
+i{
+    position:absolute;
+    left:40px;
+    top:20px;
+    font-size: 25px;
+    padding-bottom:8px;
+}
+.fa-magnifying-glass{
+    position:absolute;
+    left:1250px;
+    top:30px;
+    font-size: 25px;
+    padding-bottom:5px;
+}
+.maincontainer{
+    height:50px;
+    width:1360px;
+    background-color: white;
+}
+.navi{
+    height:50px;
+    display: flex;
+    justify-content:space-around;
+    background-color:black;
+    color:white;
+    font-size: 20px;
+    padding-top:10px;
+    margin:0px 0px;
+}
+.log{
+    border:1px solid black;
+    background-color:black;
+    color:white;
+    height:20px;
+    font-size: 20px;
+    
+}
+.sub1{
+    height:625px;
+    width:1360px;
+    background-color: black;
+    position: relative;
+}
+.up{
+    position: absolute;
+    top:360px;
+    left:55px;
+    color:white;
+    font-size: 40px;
+    font-family: 'AudiExtended', Verdana, sans-serif !important;
+}
+.digi{
+    position: absolute;
+    top:450px;
+    left:55px;
+    color:white;
+    font-size: 18px;
+    font-family: 'AudiExtended', Verdana, sans-serif !important;
+}
+.buttonn{
+    position: absolute;
+    top:510px;
+    left:55px;
+    height:55px;
+    width:140px;
+    background-color: blue;
+    color:white;
+    border-radius: 40px;
+    border:1px solid black;
+    font-size: 18px;
+    
+}
+img{
+    height:640px;
+    width:1360px;
+}
+.sub2{
+    height:560px;
+    width:1360px;
+    margin-top: 0px;
+    position:relative;
+}
+h1{
+    color:white;
+    font-size: 30px;
+    position:absolute;
+    top:30px;
+    left:580px;
+}
+.pic{
+    height:565px;
+    width:1360px;
+    border-radius: 5px;
+   
+}
+.overlap{
+    background-color: rgba(32, 16, 16, 0.753);
+    position:absolute;
+    top:0px;
+    left:0px;
+    bottom:0px;
+    right:0px;
+}
+.au{
+    font-size: 30px;
+    color:white;
+    position: absolute;
+    top:20px;
+    left:600px;
+}
+.box{
+    border:2px solid black;
+    background:linear-gradient(white,gray);
+    position:absolute;
+    top:150px;
+    left:100px;
+    border-radius: 13px;
+    height:330px;
+    width:600px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.ger{
+    color:black;
+    font-size: 18px;
+    padding-left:8px;
+}
+.sub3{
+    height:690px;
+    width:1360px;
+    background-color:rgb(194, 182, 182);
+    position:relative;
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+    color:black;
+    font-family: 'AudiExtended', Verdana, sans-serif !important;
+    position:absolute;
+    top:0px;
+    left:600px;
+    padding-top: 0px;
+   text-decoration:underline wavy black;
+}
+.sbox{
+    position:absolute;
+    top:100px;
+    left:60px;
+    display:flex;
+    gap:20px;
+   
+}
+.serone{
+    border:1px solid black;
+    height:465px;
+    width:400px;
+    border-radius: 10px;
+    position: relative;
+    background:linear-gradient(rgb(120, 120, 151), white);
+}
+ .serone:hover{
+    background: linear-gradient(rgb(202, 190, 190),rgb(115, 115, 141),rgb(214, 143, 154));
+    height:467px;
+    width:401px;
+    color: rgb(236, 236, 236);
+    border: 1px solid white;
+}
+.onee{
+    position:absolute;
+    height:270px;
+    width:400px;
+    border-radius: 10px;
+}
+.sonee{
+    font-size: 15px;
+    position:absolute;
+    top:285px;
+    padding:5px 8px;
+}
+.sr{
+    color:red;
+    font-size: 17px;
+    position:absolute;
+    top:265px;
+    left:110px;
+   
+   
+}
+.btn1{
+    position:relative;
+    font-size: 15px;
+    bottom: 20px;
+    top:400px;
+    left:109px;
+    border:0px solid black;
+    background-color: blue;
+    color:white;
+    border-radius:8px;
+    height:40px;
+    width:160px;
+    
+}
+.sertwo{
+    border:1px solid black;
+    height:465px;
+    width:400px;
+    border-radius: 10px;
+    background:linear-gradient(rgb(115, 115, 141), white);
+    position:relative;
+    
+}
+ .sertwo:hover{
+    background: linear-gradient(rgb(202, 190, 190),rgb(115, 115, 141),rgb(214, 143, 154));
+    height:467px;
+    width:401px;
+    color: rgb(236, 236, 236);
+    border: 1px solid white;
+}
+.twoo{
+    position:absolute;
+    height:270px;
+    width:400px;
+    border-radius: 10px;
+}
+.gp{
+    color:red;
+    font-size: 17px;
+    position:absolute;
+    top:265px;
+    left:110px;
+}
+.stwoo{
+    font-size: 15px;
+    position:absolute;
+    top:285px;
+    padding:5px 8px;
+}
+.btn2{
+    position:relative;
+    top:420px;
+    left:105px;
+    font-size: 15px;
+   border:0px ;
+    background-color: blue;
+    color:white;
+    border-radius:8px;
+    height:40px;
+    width:160px;
+}
+.serthree{
+    border:1px solid black;
+    height:465px;
+    width:400px;
+    border-radius: 10px;
+    background:linear-gradient(rgb(115, 115, 141), white);
+    position:relative;
+}
+ .serthree:hover{
+    background: linear-gradient(rgb(202, 190, 190),rgb(115, 115, 141),rgb(214, 143, 154));
+    height:467px;
+    width:401px;
+    color: rgb(236, 236, 236);
+    border: 1px solid white;
+}
+.three{
+    position:absolute;
+    height:270px;
+    width:400px;
+    border-radius: 10px;
+}
+.ac{
+    color:red;
+    font-size: 17px;
+    position:absolute;
+    top:265px;
+    left:110px;
+     
+}
+.sthree{
+    font-size: 15px;
+    position:absolute;
+    top:285px;
+    padding:5px 8px;
+}
+.btn3{
+    position:relative;
+    top:420px;
+    left:105px;
+    font-size: 15px;
+    border:0px ;
+    background-color: blue;
+    color:white;
+    border-radius:8px;
+    height:40px;
+    width:160px;
+}
+.new{
+    height:2200px;
+    width:1360px;
+    background-color:rgba(26, 24, 24, 0.884);
+    position:relative;
+}
+
+.inno{
+    position: absolute;
+    top:50px;
+    left:70px;
+    height:600px;
+    width:550px;
+    border-radius: 10px;
+}
+.in{
+    position: absolute;
+    top:70px;
+    left:100px;
+    color:white;
+}
+.emo{
+    position: absolute;
+    top:60px;
+    left:850px;
+}
+.emob{
+    position: absolute;
+    top:50px;
+    left:650px;
+    height:280px;
+    width:600px;
+    border-radius: 10px;
+}
+.int{
+    position: absolute;
+    top:340px;
+    left:900px;
+}
+.art{
+    position: absolute;
+    top:360px;
+    left:650px;
+    height:280px;
+    width:600px;
+    border-radius: 10px;
+}
+.sust{
+    position: absolute;
+    top:750px;
+    left:220px;
+}
+.susti{
+    position: absolute;
+    top:700px;
+    left:70px;
+    height:565px;
+    width:550px;
+    border-radius: 10px;
+}
+.ep{
+    position: absolute;
+    top:720px;
+    left:780px;
+}
+.every{
+    position: absolute;
+    top:700px;
+    left:650px;
+    height:280px;
+    width:600px;
+    border-radius: 10px;
+}
+.sustain{
+    position: absolute;
+    top:1000px;
+    left:780px;
+}
+.sustainn{
+    position: absolute;
+    top:990px;
+    left:650px;
+    height:280px;
+    width:600px;
+    border-radius: 10px;
+}
+.pr{
+    position: absolute;
+    top:1300px;
+    left:530px;
+    color:red;
+    font-size: 40px;
+}
+.imgp{
+    position: absolute;
+    top:1430px;
+    left:60px;
+    height:460px;
+    width:400px;
+    border-radius: 10px;
+}
+.rev{
+    position: absolute;
+    top:1700px;
+    left:70px;
+    color:white;
+}
+.ima{
+    position: absolute;
+    top:1430px;
+    left:500px;
+    height:460px;
+    width:400px;
+    border-radius: 10px;
+}
+.imb{
+    position: absolute;
+    top:1700px;
+    left:510px;
+    color:white;
+}
+.last{
+    position: absolute;
+    top:1430px;
+    left:930px;
+    height:460px;
+    width:400px;
+    border-radius: 10px;
+}
+.bone{
+    position: absolute;
+    top:1790px;
+    left:150px;
+    height:50px;
+    width:200px;
+    border-radius: 20px;
+     background:rgb(140, 140, 194);
+    color:white;
+    font-size: 18px;
+}
+.bone:hover{
+    background: rgb(223, 159, 169);
+}
+.btwo{
+    position: absolute;
+    top:1790px;
+    left:599px;
+    height:50px;
+    width:200px;
+    border-radius: 20px;
+     background:rgb(140, 140, 194);
+    color:white;
+    font-size: 18px;
+}
+.btwo:hover{
+    background: rgb(223, 159, 169);
+}
+.bfour{
+    position: absolute;
+    top:1790px;
+    left:1030px;
+    height:50px;
+    width:200px;
+    border-radius: 20px;
+    background:rgb(140, 140, 194);
+    color:white;
+    font-size: 18px;
+}
+.bfour:hover{
+    background: rgb(223, 159, 169);
+}
+.bfive{
+    position: absolute;
+    top:1960px;
+    left:585px;
+    height:60px;
+    width:250px;
+    border-radius: 20px;
+    background:red;
+    color:white;
+    font-size: 18px;
+}
+.bfive:hover{
+    background-color:rgb(194, 80, 80);
+}
+.sub4{
+    height:400px;
+    width:1360px;
+    position:relative;
+    background-color:black;
+
+}
+.fo{
+    position:absolute;
+    top:20px;
+    left:15px;
+    color:white;
+    padding-left: 20px;
+}
+.aruna{
+    position:absolute;
+    top:130px;
+    left:880px;
+    color:white;
+}
+.fa-copyright{
+    position:absolute;
+    top:190px;
+    left:960px;
+    font-size: 30px;
+}
+.s{
+    position:absolute;
+    top:180px;
+    left:1010px;
+    color:white;
+}
+.fa-instagram{
+    position:absolute;
+    top:330px;
+    left:560px;
+    font-size:30px;
+}
+.fa-x-twitter{
+    position:absolute;
+    top:330px;
+    left:609px;
+    font-size:30px;
+}
+.fa-chrome{
+    position:absolute;
+    top:330px;
+    left:650px;
+    font-size:30px;
+}
+.fa-telegram{
+    position:absolute;
+    top:330px;
+    left:695px;
+    font-size:30px;
+}
+button:hover{
+    color:black;
+    background-color: rgb(202, 189, 189);
+    transform: scale(1.1);
+}
+.act1:active{
+    color:red;
+}
+.active:active{
+    color:red;
+}
+.act2:active{
+    color:red;
+}
+.act3:active{
+    color:red;
+}
+.act4:active{
+    color:red;
+}
+
+
