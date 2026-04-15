@@ -1,0 +1,62 @@
+.navigation{
+    height:70px;
+    width:1360px;
+    background-color:white;
+    position:sticky;
+    top:0px;
+    position:relative;
+    background-color: rgb(10, 10, 10);
+}
+.audiim{
+    position:absolute;
+    left:60px;
+    padding-top: 10px;
+    width:75px;
+    height:35px;
+}
+.model{
+    color:white;
+    position:absolute;
+    left:180px;
+    
+}
+.fb{
+    color:white;
+     position:absolute;
+    left:300px;
+   
+}
+.carea{
+    color:white;
+     position:absolute;
+    left:480px;
+   
+}  
+.dis{
+    color:white;
+     position:absolute;
+    left:700px;
+   
+}   
+.boxx{
+    border:2px solid white;
+    height:1000px;
+    width:1360px;
+    background-color:white;
+    font-family: 'AudiExtended', Verdana, sans-serif !important;
+}
+.repair{
+    height:600px;
+    width:1360px;
+    position:relative;
+}
+.p1{
+    font-size: 45px;
+    padding-left: 20px;
+    color:black;
+}
+.p2{
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
